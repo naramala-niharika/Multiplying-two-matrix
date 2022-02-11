@@ -35,8 +35,10 @@ value1=np.array(l1)
 value2=np.array(l2)
 result= value1*value2
 print("Product of two arrays is:",result)
-
-## OUTPUT:
+```
+## Output:
+![Output](https://github.com/naramala-niharika/Multiplying-two-matrix/blob/main/n1.PNG?raw=true)
 
 ## RESULT:
+Thus the program written to multiply two matrix.
 
